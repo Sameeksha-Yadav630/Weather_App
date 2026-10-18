@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+.box{
+    height: 400px;
+    width: 350px;
+    border: 1px solid red;
+    margin:50px auto;
+    border-radius:50px;
+    background: linear-gradient(to bottom,rgb(10, 98, 153),rgb(54, 199, 49));
+    text-align: center;
+}
+.box input{
+    height: 45px;
+    width:200px;
+    border-radius: 10px;
+    font-size: 18px;
+    
+}
+.box button{
+    height: 45px;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: deeppink;
+}
+
+.image1{
+        height:100px;
+        width:100px;
+        
+}
